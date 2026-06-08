@@ -17,7 +17,7 @@ Dự án này áp dụng các kỹ thuật SQL nâng cao và phân tích dữ li
 * [Liên kết đến mã nguồn SQL: Revenue Auditing](./SQL_scripts/pricing_revenue_audit.sql)
 
 ##  Hiệu Quả & Tác Động Thực Tế
-* **Bảo vệ doanh thu:** Phát hiện và ngăn chặn tỷ lệ thất thoát doanh thu giả lập do lỗi cấu hình tính sai cước phí và thiếu phụ phí giao hàng lại lần 4, 
+* **Bảo vệ doanh thu:** Phát hiện và ngăn chặn tỷ lệ thất thoát doanh thu giả lập do lỗi cấu hình tính sai cước phí và thiếu phụ phí giao hàng lại lần 4 và thay đổi địa chỉ. 
 * **Chuẩn hóa dữ liệu:** Kết xuất ra các tập dữ liệu sạch (Cleaned Datasets) theo mô hình Star Schema, sẵn sàng tích hợp trực tiếp lên các công cụ BI (Power BI/Tableau) để theo dõi real-time.
 
 ## Cấu Trúc Kho Lưu Trữ

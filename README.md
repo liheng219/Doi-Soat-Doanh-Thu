@@ -23,6 +23,6 @@ Dự án này áp dụng các kỹ thuật SQL nâng cao và phân tích dữ li
 ## Cấu Trúc Kho Lưu Trữ
 ```t
 ├── README.md            
-└── scripts/                  # Bộ mã nguồn SQL đã tối ưu và viết chú thích chi tiết
+└── SQL_scripts/                  # Bộ mã nguồn SQL đã tối ưu và viết chú thích chi tiết
     ├── pricing_revenue_audit.sql
     └── create_table_insert_data.sql
